@@ -6,7 +6,7 @@
 <p align="left">
   🙂  Maryana Machado Melo<br>
   📍 Anápolis-GO<br>
-  🎓 Estudante de Engenharia de Software na UniEVANGÉLICA (2024 - 2027)<br>
+  🎓 Estudante de Engenharia de Software na UniEVANGÉLICA (2024 - 2028)<br>
   👷 Estagiária na UniEVANGÉLICA (desde jan/2025)<br>
   📱 Minhas redes:
 </p>

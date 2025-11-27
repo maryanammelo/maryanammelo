@@ -34,9 +34,9 @@
 
 <h4 align="left">📜 Certificações</h4>
 <ul align="left">
-  <li>Master AI with Responsible Prompting</li>
-  <li>Internet das Coisas</li>
   <li>UX e UI Design</li>
+  <li>Internet das Coisas</li>
+  <li>Master AI with Responsible Prompting</li>
   <li>Ética em IA</li>
   <li>Inteligência Artificial Generativa</li>
 </ul>

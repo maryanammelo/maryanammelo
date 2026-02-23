@@ -35,6 +35,7 @@
 <h4 align="left">📜 Certificações</h4>
 <ul align="left">
   <li>UX e UI Design</li>
+  <li>Psicologia Aplicada a UX</li>
   <li>Internet das Coisas</li>
   <li>Master AI with Responsible Prompting</li>
   <li>Ética em IA</li>
